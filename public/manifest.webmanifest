@@ -1,0 +1,23 @@
+{
+  "name": "Cursor Quito",
+  "short_name": "Cursor Quito",
+  "description": "Comunidad AI-native de Product Engineers en Quito, Ecuador.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
